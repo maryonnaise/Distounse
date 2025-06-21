@@ -1,4 +1,5 @@
 # Distounse 🖱️
+![Distounse](https://github.com/user-attachments/assets/0b05a7ec-4db5-4031-9034-d29ab43f30cf)
 
 **Distounse** is a minimalist macOS tray application that tracks the total distance your mouse cursor has moved and displays it directly in the system tray.
 
