@@ -12,9 +12,10 @@
 
 ## 🖼️ Screenshot
 
-![Distounse in macOS tray](./screenshot.png)
+<img width="404" alt="Schermata 2025-06-21 alle 19 56 12" src="https://github.com/user-attachments/assets/c39c74e1-7dd1-4c5d-9878-96e16eec9fd5" />
 
-> Replace with actual screenshot path if available
+
+>Distounse appereance in the system tray
 
 ## 🚀 Installation
 
